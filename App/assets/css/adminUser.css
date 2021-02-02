@@ -1,0 +1,11 @@
+th {
+    background: #007b5e !important;
+    color: white;
+    text-align: justify;
+    font-size: medium !important;
+}
+
+td {
+    text-align: center;
+    font-size: medium  !important;
+}
